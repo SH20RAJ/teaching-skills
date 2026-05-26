@@ -40,6 +40,10 @@ File:
 ```text
 abdul_bari_style_teaching_doc.md
 ```
+or
+```text
+abdul_bari_teaching_claude_skill_md.md
+```
 
 A concept-first whiteboard teaching style inspired by slow, visual, engineering-focused explanations.
 
